@@ -5,8 +5,13 @@
 - 🌱 I’m currently learning how to actually apply my knowlegde learnt from school to projects so I prepared for my jobs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm abit introvert ,but I alway willing to talk and learn from everyone!
-- 📫 How to reach me: Facebook: https://www.facebook.com/quangho.hovanquang
-                       Handshake: https://fiu.joinhandshake.com/profiles/60204159
+- 📫 How to reach me: 
+  <br>
+
+<div align="center">
+  <a href="https://www.facebook.com/quangho.hovanquang" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/042/127/197/non_2x/app-style-blue-facebook-logo-with-white-thick-border-and-long-shadow-on-a-transparent-background-free-png.png" target="_blank"></a>  
+</div>
+
 <br>
 
 <div align="center">
