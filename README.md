@@ -9,7 +9,9 @@
   <br>
 
 <div align="center">
-  <a href="https://www.facebook.com/quangho.hovanquang" target="_blank"><img src="https://v1.benbarry.com/images/portfolio/1200/benbarry-000588.png" target="_blank"></a>  
+  <a href="https://www.facebook.com/quangho.hovanquang" target="_blank">
+    <img src="https://v1.benbarry.com/images/portfolio/1200/benbarry-000588.png" width="300" height="200">
+  </a>
 </div>
 
 <br>
