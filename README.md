@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/quangho.hovanquang" target="_blank">
-    <img src="https://v1.benbarry.com/images/portfolio/1200/benbarry-000588.png" width="300" height="200">
+    <img src="https://v1.benbarry.com/images/portfolio/1200/benbarry-000588.png" width="200" height="100">
   </a>
 </div>
 
